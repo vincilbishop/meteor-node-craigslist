@@ -1,0 +1,107 @@
+{
+  "dependencies": {
+    "node-craigslist": {
+      "version": "0.1.6",
+      "dependencies": {
+        "htmlparser": {
+          "version": "1.7.7"
+        },
+        "soupselect": {
+          "version": "0.2.0",
+          "dependencies": {
+            "nodeunit": {
+              "version": "0.9.0",
+              "dependencies": {
+                "tap": {
+                  "version": "0.4.11",
+                  "dependencies": {
+                    "buffer-equal": {
+                      "version": "0.0.1"
+                    },
+                    "deep-equal": {
+                      "version": "0.0.0"
+                    },
+                    "difflet": {
+                      "version": "0.2.6",
+                      "dependencies": {
+                        "traverse": {
+                          "version": "0.6.6"
+                        },
+                        "charm": {
+                          "version": "0.1.2"
+                        },
+                        "deep-is": {
+                          "version": "0.1.2"
+                        }
+                      }
+                    },
+                    "glob": {
+                      "version": "3.2.11",
+                      "dependencies": {
+                        "inherits": {
+                          "version": "2.0.1"
+                        },
+                        "minimatch": {
+                          "version": "0.3.0",
+                          "dependencies": {
+                            "lru-cache": {
+                              "version": "2.5.0"
+                            },
+                            "sigmund": {
+                              "version": "1.0.0"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "inherits": {
+                      "version": "2.0.1"
+                    },
+                    "mkdirp": {
+                      "version": "0.3.5"
+                    },
+                    "nopt": {
+                      "version": "2.2.1",
+                      "dependencies": {
+                        "abbrev": {
+                          "version": "1.0.5"
+                        }
+                      }
+                    },
+                    "runforcover": {
+                      "version": "0.0.2",
+                      "dependencies": {
+                        "bunker": {
+                          "version": "0.1.2",
+                          "dependencies": {
+                            "burrito": {
+                              "version": "0.2.12",
+                              "dependencies": {
+                                "traverse": {
+                                  "version": "0.5.2"
+                                },
+                                "uglify-js": {
+                                  "version": "1.1.1"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "slide": {
+                      "version": "1.1.5"
+                    },
+                    "yamlish": {
+                      "version": "0.0.5"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
