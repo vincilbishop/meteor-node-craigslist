@@ -1,0 +1,8 @@
+{
+  "name": "node-craigslist",
+  "description": "Npm node-craigslist packaged for Meteor.",
+  "homepage": "https://github.com/premosystems/meteor-node-craigslist",
+  "author": "Vincil Bishop <vincil.bishop@vbishop.com> (https://github.com/premosystems)",
+  "version": "1.0.0",
+  "git": "https://github.com/premosystems/meteor-node-craigslist"
+}
